@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://fazerumsite.com/</loc></url><url><loc>https://fazerumsite.com/termos.html</loc></url><url><loc>https://fazerumsite.com/privacidade.html</loc></url></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.fazerumsite.com/</loc></url>
+  <url><loc>https://www.fazerumsite.com/termos.html</loc></url>
+  <url><loc>https://www.fazerumsite.com/privacidade.html</loc></url>
+</urlset>
